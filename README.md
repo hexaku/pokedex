@@ -1,3 +1,14 @@
+# Interactive Pokedex
+
+This is an interactive Pokedex built with React, using Bootstrap, Axios, Dom-router and PokeAPI.co. 
+You can click on every Pokemon and get a lot of informations on it !
+I built this app to consolidate my React basics skills with a Youtube tutorial of Chris Stayte.
+
+![](public/pokedex1.png)
+![](public/pokedex2.png)
+
+To access the app : https://pokedex-akuserukid.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
