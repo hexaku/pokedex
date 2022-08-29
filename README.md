@@ -7,7 +7,7 @@ I built this app to consolidate my React basics skills with a Youtube tutorial o
 ![](public/pokedex1.png)
 ![](public/pokedex2.png)
 
-To access the app : https://pokedex-louxen.netlify.app
+To access the app : https://pokedex-hexaku.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
